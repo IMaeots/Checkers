@@ -6,10 +6,9 @@ English Draughts is similar to the international checkers but has some rule diff
 Main rule differences compared to international checkers are that a piece can not take opponents pieces going backwards and that a king can move backwards also but only one step at a time. Overall the game is just like checkers where pieces move diagonally and the winner is the one who has eaten all the opponents pieces. Piece will become a king if it reaches the opponents end. Game is played on a 8x8 game board.
 
 # My perspective
-The goal was to do something interesting related to python and game developement as I will 
-continue learning web developement afterawards anyways. The project is supposed to be Version 1.0.
+The goal was to do something interesting related to python and game developement. The project is supposed to be Version 1.0.
 It will allow local Draughts, that is two players playing the game on one computer. Future versions
-developed outside CS50 will possibly feature an AI and/or multiplayer/online.
+developed outside CS50 could possibly feature an AI and/or multiplayer/online.
 
 # Before starting
 First step was to learn the basics of pygame as it was used to display and make the game.
