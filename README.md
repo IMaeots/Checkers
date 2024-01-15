@@ -64,3 +64,12 @@ README.txt - to create somewhat understanding of how this code was made and what
 The assets folder is for extra things (assets) like the crown picture, win screen picture and sound effect for a move.
 
 #### This was made by Indrek Mäeots for CS50 in 2022.
+
+## License
+Copyright 2022-... IMaeots
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+`http://www.apache.org/licenses/LICENSE-2.0`
